@@ -1,1 +1,1 @@
-# html-resume
+Very barebones/basic HTML resume for future reference.
